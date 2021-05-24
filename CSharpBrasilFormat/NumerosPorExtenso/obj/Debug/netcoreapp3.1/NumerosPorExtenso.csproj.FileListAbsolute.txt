@@ -1,0 +1,16 @@
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\NumerosPorExtenso\bin\Debug\netcoreapp3.1\NumerosPorExtenso.exe
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\NumerosPorExtenso\bin\Debug\netcoreapp3.1\NumerosPorExtenso.deps.json
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\NumerosPorExtenso\bin\Debug\netcoreapp3.1\NumerosPorExtenso.runtimeconfig.json
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\NumerosPorExtenso\bin\Debug\netcoreapp3.1\NumerosPorExtenso.runtimeconfig.dev.json
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\NumerosPorExtenso\bin\Debug\netcoreapp3.1\NumerosPorExtenso.dll
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\NumerosPorExtenso\bin\Debug\netcoreapp3.1\NumerosPorExtenso.pdb
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\NumerosPorExtenso\bin\Debug\netcoreapp3.1\Caelum.Stella.CSharp.dll
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\NumerosPorExtenso\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\NumerosPorExtenso\obj\Debug\netcoreapp3.1\NumerosPorExtenso.csprojAssemblyReference.cache
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\NumerosPorExtenso\obj\Debug\netcoreapp3.1\NumerosPorExtenso.AssemblyInfoInputs.cache
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\NumerosPorExtenso\obj\Debug\netcoreapp3.1\NumerosPorExtenso.AssemblyInfo.cs
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\NumerosPorExtenso\obj\Debug\netcoreapp3.1\NumerosPorExtenso.csproj.CoreCompileInputs.cache
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\NumerosPorExtenso\obj\Debug\netcoreapp3.1\NumerosPorExtenso.csproj.CopyComplete
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\NumerosPorExtenso\obj\Debug\netcoreapp3.1\NumerosPorExtenso.dll
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\NumerosPorExtenso\obj\Debug\netcoreapp3.1\NumerosPorExtenso.pdb
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\NumerosPorExtenso\obj\Debug\netcoreapp3.1\NumerosPorExtenso.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\CSharpBrasilFormat\bin\Debug\netcoreapp3.1\ValidadorDeDocumentos.exe
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\CSharpBrasilFormat\bin\Debug\netcoreapp3.1\ValidadorDeDocumentos.deps.json
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\CSharpBrasilFormat\bin\Debug\netcoreapp3.1\ValidadorDeDocumentos.runtimeconfig.json
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\CSharpBrasilFormat\bin\Debug\netcoreapp3.1\ValidadorDeDocumentos.runtimeconfig.dev.json
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\CSharpBrasilFormat\bin\Debug\netcoreapp3.1\ValidadorDeDocumentos.dll
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\CSharpBrasilFormat\bin\Debug\netcoreapp3.1\ValidadorDeDocumentos.pdb
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\CSharpBrasilFormat\bin\Debug\netcoreapp3.1\Caelum.Stella.CSharp.dll
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\CSharpBrasilFormat\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\CSharpBrasilFormat\obj\Debug\netcoreapp3.1\ValidadorDeDocumentos.csprojAssemblyReference.cache
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\CSharpBrasilFormat\obj\Debug\netcoreapp3.1\ValidadorDeDocumentos.AssemblyInfoInputs.cache
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\CSharpBrasilFormat\obj\Debug\netcoreapp3.1\ValidadorDeDocumentos.AssemblyInfo.cs
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\CSharpBrasilFormat\obj\Debug\netcoreapp3.1\ValidadorDeDocumentos.csproj.CoreCompileInputs.cache
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\CSharpBrasilFormat\obj\Debug\netcoreapp3.1\ValidadorDeDocumentos.csproj.CopyComplete
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\CSharpBrasilFormat\obj\Debug\netcoreapp3.1\ValidadorDeDocumentos.dll
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\CSharpBrasilFormat\obj\Debug\netcoreapp3.1\ValidadorDeDocumentos.pdb
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\CSharpBrasilFormat\obj\Debug\netcoreapp3.1\ValidadorDeDocumentos.genruntimeconfig.cache

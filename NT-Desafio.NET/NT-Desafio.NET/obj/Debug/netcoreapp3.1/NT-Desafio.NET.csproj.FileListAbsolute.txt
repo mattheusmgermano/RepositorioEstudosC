@@ -1,0 +1,13 @@
+C:\Users\mattheus.martins\source\repos\NT-Desafio.NET\NT-Desafio.NET\obj\Debug\netcoreapp3.1\NT-Desafio.NET.csprojAssemblyReference.cache
+C:\Users\mattheus.martins\source\repos\NT-Desafio.NET\NT-Desafio.NET\obj\Debug\netcoreapp3.1\NT-Desafio.NET.AssemblyInfoInputs.cache
+C:\Users\mattheus.martins\source\repos\NT-Desafio.NET\NT-Desafio.NET\obj\Debug\netcoreapp3.1\NT-Desafio.NET.AssemblyInfo.cs
+C:\Users\mattheus.martins\source\repos\NT-Desafio.NET\NT-Desafio.NET\obj\Debug\netcoreapp3.1\NT-Desafio.NET.csproj.CoreCompileInputs.cache
+C:\Users\mattheus.martins\source\repos\NT-Desafio.NET\NT-Desafio.NET\bin\Debug\netcoreapp3.1\NT-Desafio.NET.exe
+C:\Users\mattheus.martins\source\repos\NT-Desafio.NET\NT-Desafio.NET\bin\Debug\netcoreapp3.1\NT-Desafio.NET.deps.json
+C:\Users\mattheus.martins\source\repos\NT-Desafio.NET\NT-Desafio.NET\bin\Debug\netcoreapp3.1\NT-Desafio.NET.runtimeconfig.json
+C:\Users\mattheus.martins\source\repos\NT-Desafio.NET\NT-Desafio.NET\bin\Debug\netcoreapp3.1\NT-Desafio.NET.runtimeconfig.dev.json
+C:\Users\mattheus.martins\source\repos\NT-Desafio.NET\NT-Desafio.NET\bin\Debug\netcoreapp3.1\NT-Desafio.NET.dll
+C:\Users\mattheus.martins\source\repos\NT-Desafio.NET\NT-Desafio.NET\bin\Debug\netcoreapp3.1\NT-Desafio.NET.pdb
+C:\Users\mattheus.martins\source\repos\NT-Desafio.NET\NT-Desafio.NET\obj\Debug\netcoreapp3.1\NT-Desafio.NET.dll
+C:\Users\mattheus.martins\source\repos\NT-Desafio.NET\NT-Desafio.NET\obj\Debug\netcoreapp3.1\NT-Desafio.NET.pdb
+C:\Users\mattheus.martins\source\repos\NT-Desafio.NET\NT-Desafio.NET\obj\Debug\netcoreapp3.1\NT-Desafio.NET.genruntimeconfig.cache

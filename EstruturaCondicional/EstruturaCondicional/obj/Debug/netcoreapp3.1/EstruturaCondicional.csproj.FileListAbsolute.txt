@@ -1,0 +1,13 @@
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.1\EstruturaCondicional.csprojAssemblyReference.cache
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.1\EstruturaCondicional.AssemblyInfoInputs.cache
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.1\EstruturaCondicional.AssemblyInfo.cs
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.1\EstruturaCondicional.csproj.CoreCompileInputs.cache
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.1\EstruturaCondicional.exe
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.1\EstruturaCondicional.deps.json
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.1\EstruturaCondicional.runtimeconfig.json
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.1\EstruturaCondicional.runtimeconfig.dev.json
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.1\EstruturaCondicional.dll
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.1\EstruturaCondicional.pdb
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.1\EstruturaCondicional.dll
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.1\EstruturaCondicional.pdb
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.1\EstruturaCondicional.genruntimeconfig.cache

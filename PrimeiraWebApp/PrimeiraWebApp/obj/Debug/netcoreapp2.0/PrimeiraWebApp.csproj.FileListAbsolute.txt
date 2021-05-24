@@ -1,0 +1,4 @@
+C:\Users\mattheus.martins\source\repos\PrimeiraWebApp\PrimeiraWebApp\obj\Debug\netcoreapp2.0\PrimeiraWebApp.csprojAssemblyReference.cache
+C:\Users\mattheus.martins\source\repos\PrimeiraWebApp\PrimeiraWebApp\obj\Debug\netcoreapp2.0\PrimeiraWebApp.AssemblyInfoInputs.cache
+C:\Users\mattheus.martins\source\repos\PrimeiraWebApp\PrimeiraWebApp\obj\Debug\netcoreapp2.0\PrimeiraWebApp.AssemblyInfo.cs
+C:\Users\mattheus.martins\source\repos\PrimeiraWebApp\PrimeiraWebApp\obj\Debug\netcoreapp2.0\PrimeiraWebApp.csproj.CoreCompileInputs.cache

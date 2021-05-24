@@ -1,0 +1,12 @@
+C:\Users\mattheus.martins\source\repos\1_CSharpCollections2\8_CSharpCollection2\bin\Debug\netcoreapp3.1\8_CSharpCollection2.exe
+C:\Users\mattheus.martins\source\repos\1_CSharpCollections2\8_CSharpCollection2\bin\Debug\netcoreapp3.1\8_CSharpCollection2.deps.json
+C:\Users\mattheus.martins\source\repos\1_CSharpCollections2\8_CSharpCollection2\bin\Debug\netcoreapp3.1\8_CSharpCollection2.runtimeconfig.json
+C:\Users\mattheus.martins\source\repos\1_CSharpCollections2\8_CSharpCollection2\bin\Debug\netcoreapp3.1\8_CSharpCollection2.runtimeconfig.dev.json
+C:\Users\mattheus.martins\source\repos\1_CSharpCollections2\8_CSharpCollection2\bin\Debug\netcoreapp3.1\8_CSharpCollection2.dll
+C:\Users\mattheus.martins\source\repos\1_CSharpCollections2\8_CSharpCollection2\bin\Debug\netcoreapp3.1\8_CSharpCollection2.pdb
+C:\Users\mattheus.martins\source\repos\1_CSharpCollections2\8_CSharpCollection2\obj\Debug\netcoreapp3.1\8_CSharpCollection2.AssemblyInfoInputs.cache
+C:\Users\mattheus.martins\source\repos\1_CSharpCollections2\8_CSharpCollection2\obj\Debug\netcoreapp3.1\8_CSharpCollection2.AssemblyInfo.cs
+C:\Users\mattheus.martins\source\repos\1_CSharpCollections2\8_CSharpCollection2\obj\Debug\netcoreapp3.1\8_CSharpCollection2.csproj.CoreCompileInputs.cache
+C:\Users\mattheus.martins\source\repos\1_CSharpCollections2\8_CSharpCollection2\obj\Debug\netcoreapp3.1\8_CSharpCollection2.dll
+C:\Users\mattheus.martins\source\repos\1_CSharpCollections2\8_CSharpCollection2\obj\Debug\netcoreapp3.1\8_CSharpCollection2.pdb
+C:\Users\mattheus.martins\source\repos\1_CSharpCollections2\8_CSharpCollection2\obj\Debug\netcoreapp3.1\8_CSharpCollection2.genruntimeconfig.cache

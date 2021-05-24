@@ -1,0 +1,7 @@
+C:\Users\mattheus.martins\source\repos\ByteBank.Portal\ByteBank.Portal\bin\Debug\ByteBank.Portal.exe.config
+C:\Users\mattheus.martins\source\repos\ByteBank.Portal\ByteBank.Portal\bin\Debug\ByteBank.Portal.exe
+C:\Users\mattheus.martins\source\repos\ByteBank.Portal\ByteBank.Portal\bin\Debug\ByteBank.Portal.pdb
+C:\Users\mattheus.martins\source\repos\ByteBank.Portal\ByteBank.Portal\obj\Debug\ByteBank.Portal.csprojAssemblyReference.cache
+C:\Users\mattheus.martins\source\repos\ByteBank.Portal\ByteBank.Portal\obj\Debug\ByteBank.Portal.csproj.CoreCompileInputs.cache
+C:\Users\mattheus.martins\source\repos\ByteBank.Portal\ByteBank.Portal\obj\Debug\ByteBank.Portal.exe
+C:\Users\mattheus.martins\source\repos\ByteBank.Portal\ByteBank.Portal\obj\Debug\ByteBank.Portal.pdb

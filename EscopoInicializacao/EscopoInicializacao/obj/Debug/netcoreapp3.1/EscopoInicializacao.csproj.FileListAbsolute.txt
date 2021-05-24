@@ -1,0 +1,13 @@
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EscopoInicializacao\EscopoInicializacao\bin\Debug\netcoreapp3.1\EscopoInicializacao.exe
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EscopoInicializacao\EscopoInicializacao\bin\Debug\netcoreapp3.1\EscopoInicializacao.deps.json
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EscopoInicializacao\EscopoInicializacao\bin\Debug\netcoreapp3.1\EscopoInicializacao.runtimeconfig.json
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EscopoInicializacao\EscopoInicializacao\bin\Debug\netcoreapp3.1\EscopoInicializacao.runtimeconfig.dev.json
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EscopoInicializacao\EscopoInicializacao\bin\Debug\netcoreapp3.1\EscopoInicializacao.dll
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EscopoInicializacao\EscopoInicializacao\bin\Debug\netcoreapp3.1\EscopoInicializacao.pdb
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EscopoInicializacao\EscopoInicializacao\obj\Debug\netcoreapp3.1\EscopoInicializacao.csprojAssemblyReference.cache
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EscopoInicializacao\EscopoInicializacao\obj\Debug\netcoreapp3.1\EscopoInicializacao.AssemblyInfoInputs.cache
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EscopoInicializacao\EscopoInicializacao\obj\Debug\netcoreapp3.1\EscopoInicializacao.AssemblyInfo.cs
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EscopoInicializacao\EscopoInicializacao\obj\Debug\netcoreapp3.1\EscopoInicializacao.csproj.CoreCompileInputs.cache
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EscopoInicializacao\EscopoInicializacao\obj\Debug\netcoreapp3.1\EscopoInicializacao.dll
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EscopoInicializacao\EscopoInicializacao\obj\Debug\netcoreapp3.1\EscopoInicializacao.pdb
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EscopoInicializacao\EscopoInicializacao\obj\Debug\netcoreapp3.1\EscopoInicializacao.genruntimeconfig.cache

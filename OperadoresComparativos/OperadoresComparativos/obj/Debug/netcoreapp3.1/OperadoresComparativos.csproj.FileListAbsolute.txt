@@ -1,0 +1,13 @@
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.1\OperadoresComparativos.exe
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.1\OperadoresComparativos.deps.json
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.1\OperadoresComparativos.runtimeconfig.json
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.1\OperadoresComparativos.runtimeconfig.dev.json
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.1\OperadoresComparativos.dll
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.1\OperadoresComparativos.pdb
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.csprojAssemblyReference.cache
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.AssemblyInfoInputs.cache
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.AssemblyInfo.cs
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.csproj.CoreCompileInputs.cache
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.dll
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.pdb
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.genruntimeconfig.cache

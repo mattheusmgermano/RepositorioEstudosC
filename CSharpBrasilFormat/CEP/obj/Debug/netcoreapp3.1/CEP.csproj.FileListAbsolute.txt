@@ -1,0 +1,15 @@
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\CEP\bin\Debug\netcoreapp3.1\CEP.exe
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\CEP\bin\Debug\netcoreapp3.1\CEP.deps.json
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\CEP\bin\Debug\netcoreapp3.1\CEP.runtimeconfig.json
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\CEP\bin\Debug\netcoreapp3.1\CEP.runtimeconfig.dev.json
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\CEP\bin\Debug\netcoreapp3.1\CEP.dll
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\CEP\bin\Debug\netcoreapp3.1\CEP.pdb
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\CEP\obj\Debug\netcoreapp3.1\CEP.AssemblyInfoInputs.cache
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\CEP\obj\Debug\netcoreapp3.1\CEP.AssemblyInfo.cs
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\CEP\obj\Debug\netcoreapp3.1\CEP.csproj.CoreCompileInputs.cache
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\CEP\obj\Debug\netcoreapp3.1\CEP.dll
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\CEP\obj\Debug\netcoreapp3.1\CEP.pdb
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\CEP\obj\Debug\netcoreapp3.1\CEP.genruntimeconfig.cache
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\CEP\bin\Debug\netcoreapp3.1\Caelum.Stella.CSharp.dll
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\CEP\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\CEP\obj\Debug\netcoreapp3.1\CEP.csproj.CopyComplete

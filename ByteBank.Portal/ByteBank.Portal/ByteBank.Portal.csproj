@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A483CA11-007D-4846-82E2-8A18DD3C47E4}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>ByteBank.Portal</RootNamespace>
+    <AssemblyName>ByteBank.Portal</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controller\BarbsController.cs" />
+    <Compile Include="Controller\CambioController.cs" />
+    <Compile Include="Infraestrutura\Utilidades.cs" />
+    <Compile Include="Infraestrutura\WebApplication.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="Assets\BarbeariaGermano\.git\COMMIT_EDITMSG" />
+    <None Include="Assets\BarbeariaGermano\.git\config" />
+    <None Include="Assets\BarbeariaGermano\.git\description" />
+    <None Include="Assets\BarbeariaGermano\.git\FETCH_HEAD" />
+    <None Include="Assets\BarbeariaGermano\.git\HEAD" />
+    <None Include="Assets\BarbeariaGermano\.git\hooks\applypatch-msg.sample" />
+    <None Include="Assets\BarbeariaGermano\.git\hooks\commit-msg.sample" />
+    <None Include="Assets\BarbeariaGermano\.git\hooks\fsmonitor-watchman.sample" />
+    <None Include="Assets\BarbeariaGermano\.git\hooks\post-update.sample" />
+    <None Include="Assets\BarbeariaGermano\.git\hooks\pre-applypatch.sample" />
+    <None Include="Assets\BarbeariaGermano\.git\hooks\pre-commit.sample" />
+    <None Include="Assets\BarbeariaGermano\.git\hooks\pre-merge-commit.sample" />
+    <None Include="Assets\BarbeariaGermano\.git\hooks\pre-push.sample" />
+    <None Include="Assets\BarbeariaGermano\.git\hooks\pre-rebase.sample" />
+    <None Include="Assets\BarbeariaGermano\.git\hooks\pre-receive.sample" />
+    <None Include="Assets\BarbeariaGermano\.git\hooks\prepare-commit-msg.sample" />
+    <None Include="Assets\BarbeariaGermano\.git\hooks\update.sample" />
+    <None Include="Assets\BarbeariaGermano\.git\index" />
+    <None Include="Assets\BarbeariaGermano\.git\info\exclude" />
+    <None Include="Assets\BarbeariaGermano\.git\logs\HEAD" />
+    <None Include="Assets\BarbeariaGermano\.git\logs\refs\heads\main" />
+    <None Include="Assets\BarbeariaGermano\.git\logs\refs\remotes\origin\main" />
+    <None Include="Assets\BarbeariaGermano\.git\objects\06\803831f69ed7c13bce285d2dc695e8cd431cf7" />
+    <None Include="Assets\BarbeariaGermano\.git\objects\08\59f9082d71d58ec3a83251f8f87b9f5f7bb705" />
+    <None Include="Assets\BarbeariaGermano\.git\objects\16\4742f8d3bb8151e9c4b26f0bb8f326d82cc9b1" />
+    <None Include="Assets\BarbeariaGermano\.git\objects\29\2a54e6c3f38357c8d4c3b5fe0b20f32762c43d" />
+    <None Include="Assets\BarbeariaGermano\.git\objects\2b\828190a42d0c8ddca7c496c6a5a3f0c08d82dd" />
+    <None Include="Assets\BarbeariaGermano\.git\objects\32\b4f1564b7ad382c24d94723520c07e320d8116" />
+    <None Include="Assets\BarbeariaGermano\.git\objects\3a\374a0e4f97b00b665484b919782169c820c533" />
+    <None Include="Assets\BarbeariaGermano\.git\objects\5b\15eec645f08b9f579a8307ad09a8e9447afa79" />
+    <None Include="Assets\BarbeariaGermano\.git\objects\60\96a0d67b6d260c240ac4cf03fc05c78b1e517d" />
+    <None Include="Assets\BarbeariaGermano\.git\objects\65\9b63ce0dc596fb5899282bf8da8fd6d50a5a6f" />
+    <None Include="Assets\BarbeariaGermano\.git\objects\6d\9df817c2117b19f7d17c62deafded76f7f9dcd" />
+    <None Include="Assets\BarbeariaGermano\.git\objects\6f\9509c88bed7080d496fc5e1d87a9315e30549d" />
+    <None Include="Assets\BarbeariaGermano\.git\objects\9d\0191fa7d4e111e100a84b4898c7eeba7172178" />
+    <None Include="Assets\BarbeariaGermano\.git\objects\a0\6c7091cda81c47d6989b19fbf248f2f4661e5a" />
+    <None Include="Assets\BarbeariaGermano\.git\objects\a2\670ea25f389709e67d6a50ee69c2c33b185fe4" />
+    <None Include="Assets\BarbeariaGermano\.git\objects\a6\9371b3f266a7dfbf867de908b51b2d48d5ea4f" />
+    <None Include="Assets\BarbeariaGermano\.git\objects\af\944401f75ea20515a02ddb3fb43d23ecb8c662" />
+    <None Include="Assets\BarbeariaGermano\.git\objects\b7\9a68aec6d49055e5ef1067d29aa01618357c48" />
+    <None Include="Assets\BarbeariaGermano\.git\objects\c7\7a3f04eff670292ae2917ec9732a7d5cae7885" />
+    <None Include="Assets\BarbeariaGermano\.git\objects\d6\258be265681a5296b8a83a37ddc6254dcc661e" />
+    <None Include="Assets\BarbeariaGermano\.git\objects\df\9a27cfa6c173bf688f35dbd7ce9e509bda88ae" />
+    <None Include="Assets\BarbeariaGermano\.git\objects\df\e0770424b2a19faf507a501ebfc23be8f54e7b" />
+    <None Include="Assets\BarbeariaGermano\.git\objects\e3\db229751521a75d650600f8a92c51ef24d3e5b" />
+    <None Include="Assets\BarbeariaGermano\.git\objects\f7\9ac7fe599059f75031a6d45be46b42c2924322" />
+    <None Include="Assets\BarbeariaGermano\.git\refs\heads\main" />
+    <None Include="Assets\BarbeariaGermano\.git\refs\remotes\origin\main" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\BarbeariaGermano\.gitattributes" />
+    <EmbeddedResource Include="Assets\BarbeariaGermano\contato.html" />
+    <EmbeddedResource Include="Assets\BarbeariaGermano\index.html" />
+    <Content Include="Assets\BarbeariaGermano\produtos.html" />
+    <EmbeddedResource Include="Assets\BarbeariaGermano\reset.css" />
+    <EmbeddedResource Include="Assets\BarbeariaGermano\css\styles.css" />
+    <EmbeddedResource Include="Assets\BarbeariaGermano\wwwroot\img\banner.png" />
+    <EmbeddedResource Include="Assets\BarbeariaGermano\wwwroot\img\barba.png" />
+    <EmbeddedResource Include="Assets\BarbeariaGermano\wwwroot\img\beneficios.jpg" />
+    <EmbeddedResource Include="Assets\BarbeariaGermano\wwwroot\img\bg-cool.jpg" />
+    <EmbeddedResource Include="Assets\BarbeariaGermano\wwwroot\img\bg.jpg" />
+    <EmbeddedResource Include="Assets\BarbeariaGermano\wwwroot\img\bigodin.png" />
+    <EmbeddedResource Include="Assets\BarbeariaGermano\wwwroot\img\cabelo+barba.png" />
+    <EmbeddedResource Include="Assets\BarbeariaGermano\wwwroot\img\cabelo.png" />
+    <EmbeddedResource Include="Assets\BarbeariaGermano\wwwroot\img\logo-branco.png" />
+    <EmbeddedResource Include="Assets\BarbeariaGermano\wwwroot\img\logo.png" />
+    <EmbeddedResource Include="Assets\BarbeariaGermano\wwwroot\img\utensilios.jpg" />
+    <EmbeddedResource Include="Assets\BarbeariaGermano\js\main.js" />
+    <EmbeddedResource Include="View\Cambio\MXN.html" />
+    <EmbeddedResource Include="View\Cambio\USD.html" />
+    <EmbeddedResource Include="View\Cartoes\Credito.html" />
+    <EmbeddedResource Include="View\Cartoes\Debito.html" />
+    <EmbeddedResource Include="View\Home\Index.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Assets\BarbeariaGermano\.git\objects\info\" />
+    <Folder Include="Assets\BarbeariaGermano\.git\objects\pack\" />
+    <Folder Include="Assets\BarbeariaGermano\.git\refs\tags\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ByteBank.Service\ByteBank.Service.csproj">
+      <Project>{6525d453-1599-4409-b1f2-86f5736d6fab}</Project>
+      <Name>ByteBank.Service</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

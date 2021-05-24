@@ -1,0 +1,13 @@
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EntradaDados01\EntradaDados01\bin\Debug\netcoreapp3.1\EntradaDados01.exe
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EntradaDados01\EntradaDados01\bin\Debug\netcoreapp3.1\EntradaDados01.deps.json
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EntradaDados01\EntradaDados01\bin\Debug\netcoreapp3.1\EntradaDados01.runtimeconfig.json
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EntradaDados01\EntradaDados01\bin\Debug\netcoreapp3.1\EntradaDados01.runtimeconfig.dev.json
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EntradaDados01\EntradaDados01\bin\Debug\netcoreapp3.1\EntradaDados01.dll
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EntradaDados01\EntradaDados01\bin\Debug\netcoreapp3.1\EntradaDados01.pdb
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EntradaDados01\EntradaDados01\obj\Debug\netcoreapp3.1\EntradaDados01.AssemblyInfoInputs.cache
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EntradaDados01\EntradaDados01\obj\Debug\netcoreapp3.1\EntradaDados01.AssemblyInfo.cs
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EntradaDados01\EntradaDados01\obj\Debug\netcoreapp3.1\EntradaDados01.csproj.CoreCompileInputs.cache
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EntradaDados01\EntradaDados01\obj\Debug\netcoreapp3.1\EntradaDados01.dll
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EntradaDados01\EntradaDados01\obj\Debug\netcoreapp3.1\EntradaDados01.pdb
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EntradaDados01\EntradaDados01\obj\Debug\netcoreapp3.1\EntradaDados01.genruntimeconfig.cache
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\EntradaDados01\EntradaDados01\obj\Debug\netcoreapp3.1\EntradaDados01.csprojAssemblyReference.cache

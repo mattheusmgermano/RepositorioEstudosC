@@ -1,0 +1,16 @@
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\ContratoDeTrabalho\bin\Debug\netcoreapp3.1\ContratoDeTrabalho.exe
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\ContratoDeTrabalho\bin\Debug\netcoreapp3.1\ContratoDeTrabalho.deps.json
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\ContratoDeTrabalho\bin\Debug\netcoreapp3.1\ContratoDeTrabalho.runtimeconfig.json
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\ContratoDeTrabalho\bin\Debug\netcoreapp3.1\ContratoDeTrabalho.runtimeconfig.dev.json
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\ContratoDeTrabalho\bin\Debug\netcoreapp3.1\ContratoDeTrabalho.dll
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\ContratoDeTrabalho\bin\Debug\netcoreapp3.1\ContratoDeTrabalho.pdb
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\ContratoDeTrabalho\obj\Debug\netcoreapp3.1\ContratoDeTrabalho.AssemblyInfoInputs.cache
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\ContratoDeTrabalho\obj\Debug\netcoreapp3.1\ContratoDeTrabalho.AssemblyInfo.cs
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\ContratoDeTrabalho\obj\Debug\netcoreapp3.1\ContratoDeTrabalho.csproj.CoreCompileInputs.cache
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\ContratoDeTrabalho\obj\Debug\netcoreapp3.1\ContratoDeTrabalho.dll
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\ContratoDeTrabalho\obj\Debug\netcoreapp3.1\ContratoDeTrabalho.pdb
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\ContratoDeTrabalho\obj\Debug\netcoreapp3.1\ContratoDeTrabalho.genruntimeconfig.cache
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\ContratoDeTrabalho\bin\Debug\netcoreapp3.1\Caelum.Stella.CSharp.dll
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\ContratoDeTrabalho\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\ContratoDeTrabalho\obj\Debug\netcoreapp3.1\ContratoDeTrabalho.csprojAssemblyReference.cache
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\ContratoDeTrabalho\obj\Debug\netcoreapp3.1\ContratoDeTrabalho.csproj.CopyComplete

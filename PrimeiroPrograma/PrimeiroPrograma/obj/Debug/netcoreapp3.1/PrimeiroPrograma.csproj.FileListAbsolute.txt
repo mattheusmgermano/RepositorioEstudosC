@@ -1,0 +1,13 @@
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\netcoreapp3.1\PrimeiroPrograma.exe
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\netcoreapp3.1\PrimeiroPrograma.deps.json
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\netcoreapp3.1\PrimeiroPrograma.runtimeconfig.json
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\netcoreapp3.1\PrimeiroPrograma.runtimeconfig.dev.json
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\netcoreapp3.1\PrimeiroPrograma.dll
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\netcoreapp3.1\PrimeiroPrograma.pdb
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\netcoreapp3.1\PrimeiroPrograma.csprojAssemblyReference.cache
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\netcoreapp3.1\PrimeiroPrograma.AssemblyInfoInputs.cache
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\netcoreapp3.1\PrimeiroPrograma.AssemblyInfo.cs
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\netcoreapp3.1\PrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\netcoreapp3.1\PrimeiroPrograma.dll
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\netcoreapp3.1\PrimeiroPrograma.pdb
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\netcoreapp3.1\PrimeiroPrograma.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\netcoreapp3.1\OperadoresAtribuicao.exe
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\netcoreapp3.1\OperadoresAtribuicao.deps.json
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\netcoreapp3.1\OperadoresAtribuicao.runtimeconfig.json
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\netcoreapp3.1\OperadoresAtribuicao.runtimeconfig.dev.json
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\netcoreapp3.1\OperadoresAtribuicao.dll
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\netcoreapp3.1\OperadoresAtribuicao.pdb
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\netcoreapp3.1\OperadoresAtribuicao.AssemblyInfoInputs.cache
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\netcoreapp3.1\OperadoresAtribuicao.AssemblyInfo.cs
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\netcoreapp3.1\OperadoresAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\netcoreapp3.1\OperadoresAtribuicao.dll
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\netcoreapp3.1\OperadoresAtribuicao.pdb
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\netcoreapp3.1\OperadoresAtribuicao.genruntimeconfig.cache

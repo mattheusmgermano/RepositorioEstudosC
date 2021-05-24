@@ -1,0 +1,13 @@
+C:\Users\mattheus.martins\source\repos\FuncaoSintaxe\FuncaoSintaxe\bin\Debug\netcoreapp3.1\FuncaoSintaxe.exe
+C:\Users\mattheus.martins\source\repos\FuncaoSintaxe\FuncaoSintaxe\bin\Debug\netcoreapp3.1\FuncaoSintaxe.deps.json
+C:\Users\mattheus.martins\source\repos\FuncaoSintaxe\FuncaoSintaxe\bin\Debug\netcoreapp3.1\FuncaoSintaxe.runtimeconfig.json
+C:\Users\mattheus.martins\source\repos\FuncaoSintaxe\FuncaoSintaxe\bin\Debug\netcoreapp3.1\FuncaoSintaxe.runtimeconfig.dev.json
+C:\Users\mattheus.martins\source\repos\FuncaoSintaxe\FuncaoSintaxe\bin\Debug\netcoreapp3.1\FuncaoSintaxe.dll
+C:\Users\mattheus.martins\source\repos\FuncaoSintaxe\FuncaoSintaxe\bin\Debug\netcoreapp3.1\FuncaoSintaxe.pdb
+C:\Users\mattheus.martins\source\repos\FuncaoSintaxe\FuncaoSintaxe\obj\Debug\netcoreapp3.1\FuncaoSintaxe.csprojAssemblyReference.cache
+C:\Users\mattheus.martins\source\repos\FuncaoSintaxe\FuncaoSintaxe\obj\Debug\netcoreapp3.1\FuncaoSintaxe.AssemblyInfoInputs.cache
+C:\Users\mattheus.martins\source\repos\FuncaoSintaxe\FuncaoSintaxe\obj\Debug\netcoreapp3.1\FuncaoSintaxe.AssemblyInfo.cs
+C:\Users\mattheus.martins\source\repos\FuncaoSintaxe\FuncaoSintaxe\obj\Debug\netcoreapp3.1\FuncaoSintaxe.csproj.CoreCompileInputs.cache
+C:\Users\mattheus.martins\source\repos\FuncaoSintaxe\FuncaoSintaxe\obj\Debug\netcoreapp3.1\FuncaoSintaxe.dll
+C:\Users\mattheus.martins\source\repos\FuncaoSintaxe\FuncaoSintaxe\obj\Debug\netcoreapp3.1\FuncaoSintaxe.pdb
+C:\Users\mattheus.martins\source\repos\FuncaoSintaxe\FuncaoSintaxe\obj\Debug\netcoreapp3.1\FuncaoSintaxe.genruntimeconfig.cache

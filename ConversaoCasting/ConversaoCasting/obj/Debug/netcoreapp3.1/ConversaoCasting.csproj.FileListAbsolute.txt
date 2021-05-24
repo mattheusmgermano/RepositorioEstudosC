@@ -1,0 +1,13 @@
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\ConversaoCasting\ConversaoCasting\bin\Debug\netcoreapp3.1\ConversaoCasting.exe
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\ConversaoCasting\ConversaoCasting\bin\Debug\netcoreapp3.1\ConversaoCasting.deps.json
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\ConversaoCasting\ConversaoCasting\bin\Debug\netcoreapp3.1\ConversaoCasting.runtimeconfig.json
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\ConversaoCasting\ConversaoCasting\bin\Debug\netcoreapp3.1\ConversaoCasting.runtimeconfig.dev.json
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\ConversaoCasting\ConversaoCasting\bin\Debug\netcoreapp3.1\ConversaoCasting.dll
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\ConversaoCasting\ConversaoCasting\bin\Debug\netcoreapp3.1\ConversaoCasting.pdb
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\ConversaoCasting\ConversaoCasting\obj\Debug\netcoreapp3.1\ConversaoCasting.csprojAssemblyReference.cache
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\ConversaoCasting\ConversaoCasting\obj\Debug\netcoreapp3.1\ConversaoCasting.AssemblyInfoInputs.cache
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\ConversaoCasting\ConversaoCasting\obj\Debug\netcoreapp3.1\ConversaoCasting.AssemblyInfo.cs
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\ConversaoCasting\ConversaoCasting\obj\Debug\netcoreapp3.1\ConversaoCasting.csproj.CoreCompileInputs.cache
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\ConversaoCasting\ConversaoCasting\obj\Debug\netcoreapp3.1\ConversaoCasting.dll
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\ConversaoCasting\ConversaoCasting\obj\Debug\netcoreapp3.1\ConversaoCasting.pdb
+C:\Users\mattheus.martins\Desktop\NTLABS - .NET\ConversaoCasting\ConversaoCasting\obj\Debug\netcoreapp3.1\ConversaoCasting.genruntimeconfig.cache

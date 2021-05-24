@@ -1,0 +1,13 @@
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\StartUpProject\bin\Debug\netcoreapp3.1\TrabalhandoComDatas.exe
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\StartUpProject\bin\Debug\netcoreapp3.1\TrabalhandoComDatas.deps.json
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\StartUpProject\bin\Debug\netcoreapp3.1\TrabalhandoComDatas.runtimeconfig.json
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\StartUpProject\bin\Debug\netcoreapp3.1\TrabalhandoComDatas.runtimeconfig.dev.json
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\StartUpProject\bin\Debug\netcoreapp3.1\TrabalhandoComDatas.dll
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\StartUpProject\bin\Debug\netcoreapp3.1\TrabalhandoComDatas.pdb
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\StartUpProject\obj\Debug\netcoreapp3.1\TrabalhandoComDatas.csprojAssemblyReference.cache
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\StartUpProject\obj\Debug\netcoreapp3.1\TrabalhandoComDatas.AssemblyInfoInputs.cache
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\StartUpProject\obj\Debug\netcoreapp3.1\TrabalhandoComDatas.AssemblyInfo.cs
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\StartUpProject\obj\Debug\netcoreapp3.1\TrabalhandoComDatas.csproj.CoreCompileInputs.cache
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\StartUpProject\obj\Debug\netcoreapp3.1\TrabalhandoComDatas.dll
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\StartUpProject\obj\Debug\netcoreapp3.1\TrabalhandoComDatas.pdb
+C:\Users\mattheus.martins\source\repos\CSharpBrasilFormat\StartUpProject\obj\Debug\netcoreapp3.1\TrabalhandoComDatas.genruntimeconfig.cache
